@@ -1,0 +1,10 @@
+{
+	"name": "ls_kv_1004",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv1004.vault.azure.net/"
+		}
+	}
+}
